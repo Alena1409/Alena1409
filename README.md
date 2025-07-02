@@ -1,3 +1,11 @@
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExang5ZTY4NzF0YXNqY2dqMGR1NzBrZXJxMnFxenl3dHN1aTBzMGVvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy.gif" width="100"/>
+</div>
+
+<div id="count" align="center">
+<img src="https://komarev.com/ghpvc/?username=Alena1409&style=flat-square&color=blue" alt=""/>
+</div>
+
 ## Hi there 👋
 
 <!--
