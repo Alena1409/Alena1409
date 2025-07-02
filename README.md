@@ -5,17 +5,17 @@
 <div id="count" align="center">
 <img src="https://komarev.com/ghpvc/?username=Alena1409&style=flat-square&color=blue" alt=""/>
 
-[![Codewars](https://img.shields.io/badge/Codewars-%23464655.svg?logo=codewars&logoColor=white)]( https://www.codewars.com/users/rsschool_120b5e6fad8f734e )
+[![codewars](https://www.codewars.com/users/rsschool_120b5e6fad8f734e/badges/micro)](https://www.codewars.com/users/rsschool_120b5e6fad8f734e) 
 
 </div>
 
 
-## Hi there 👋
+## Hi there 👋 My name is Alena!
 
 
 
 ### 🧑‍💻 About Me
-Меня зовут Алёна. Я фронтенд-разработчик с опытом работы с Angular, JavaScript, HTML/CSS и другими технологиями. Люблю создавать удобные и красивые интерфейсы, учиться новому и расти как разработчик.
+Я фронтенд-разработчик с опытом работы с Angular, JavaScript, HTML/CSS и другими технологиями. Люблю создавать удобные и красивые интерфейсы, учиться новому и расти как разработчик.
 
 ---
 
