@@ -4,10 +4,18 @@
 
 <div id="count" align="center">
 <img src="https://komarev.com/ghpvc/?username=Alena1409&style=flat-square&color=blue" alt=""/>
+
+[![Codewars](https://img.shields.io/badge/Codewars-%23464655.svg?logo=codewars&logoColor=white)]( https://www.codewars.com/users/Alena1409 )
+
 </div>
 
 ## Hi there 👋
 
+## 🧑‍💻 About Me
+Меня зовут Алёна. Я фронтенд-разработчик с опытом работы с Angular, JavaScript, HTML/CSS и другими технологиями. Люблю создавать удобные и красивые интерфейсы, учиться новому и расти как разработчик.
+
+
+### 💻 Technologies I use:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
