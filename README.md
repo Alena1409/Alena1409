@@ -9,11 +9,15 @@
 
 </div>
 
+
 ## Hi there 👋
 
-## 🧑‍💻 About Me
+
+
+### 🧑‍💻 About Me
 Меня зовут Алёна. Я фронтенд-разработчик с опытом работы с Angular, JavaScript, HTML/CSS и другими технологиями. Люблю создавать удобные и красивые интерфейсы, учиться новому и расти как разработчик.
 
+---
 
 ### 💻 Technologies I use:
 <div>
@@ -28,6 +32,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" title="Netlify" **alt="Netlify" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/ngrx/ngrx-original.svg" title="ngrx" **alt="ngrx" width="40" height="40"/>
 </div>
+
+---
 
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Alena1409)](https://git.io/streak-stats)
