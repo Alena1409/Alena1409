@@ -5,7 +5,7 @@
 <div id="count" align="center">
 <img src="https://komarev.com/ghpvc/?username=Alena1409&style=flat-square&color=blue" alt=""/>
 
-[![Codewars](https://img.shields.io/badge/Codewars-%23464655.svg?logo=codewars&logoColor=white)]( https://www.codewars.com/users/Alena1409 )
+[![Codewars](https://img.shields.io/badge/Codewars-%23464655.svg?logo=codewars&logoColor=white)]( https://www.codewars.com/users/rsschool_120b5e6fad8f734e )
 
 </div>
 
